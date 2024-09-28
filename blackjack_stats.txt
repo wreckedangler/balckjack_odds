@@ -1,0 +1,14 @@
+Blackjack win odds for player
+
+Draw-limit: 12 -> 28.88 % 
+Draw-limit: 13 -> 32.3 % 
+Draw-limit: 14 -> 35.04 % 
+Draw-limit: 15 -> 36.45 % 
+Draw-limit: 16 -> 37.65 % 
+Draw-limit: 17 -> 37.28 % 
+Draw-limit: 18 -> 35.21 % 
+Draw-limit: 19 -> 31.69 % 
+Draw-limit: 20 -> 26.04 % 
+
+Total Games played: 270000
+Time taken: 5.17 seconds
